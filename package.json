@@ -1,0 +1,25 @@
+{
+  "name": "intro-to-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadavarya0009-tech/intro-to-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/yadavarya0009-tech/intro-to-backend/issues"
+  },
+  "homepage": "https://github.com/yadavarya0009-tech/intro-to-backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
